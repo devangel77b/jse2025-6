@@ -1,0 +1,15 @@
+[submodule "yellapragada"]
+	path = yellapragada
+	url = git@github.com:devangel77b/427syellapragada-ftcjamming.git
+[submodule "khabinskiy"]
+	path = khabinskiy
+	url = git@github.com:devangel77b/427jkhabinskiy-seaperch.git
+[submodule "misku"]
+	path = misku
+	url = git@github.com:devangel77b/427cmisku-seaperch.git
+[submodule "ma"]
+	path = ma
+	url = git@github.com:devangel77b/428bma-davidagood.git
+[submodule "ramesh"]
+	path = ramesh
+	url = git@github.com:devangel77b/427tramesh-flightclub.git
