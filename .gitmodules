@@ -13,3 +13,6 @@
 [submodule "ramesh"]
 	path = ramesh
 	url = git@github.com:devangel77b/427tramesh-flightclub.git
+[submodule "akula"]
+	path = akula
+	url = git@github.com:devangel77b/426takula-arc.git
